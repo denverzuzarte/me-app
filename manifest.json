@@ -1,0 +1,22 @@
+{
+  "short_name": "Life RPG",
+  "name": "Life RPG: Gamify Your Life",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#121212",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#121212",
+  "description": "A life gamification app to track tasks, skills, and progress."
+}
