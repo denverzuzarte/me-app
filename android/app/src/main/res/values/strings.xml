@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeInRPG</string>
+    <string name="title_activity_main">LifeInRPG</string>
+    <string name="package_name">com.LifeRPG.app</string>
+    <string name="custom_url_scheme">com.LifeRPG.app</string>
+</resources>
